@@ -51,7 +51,8 @@ def menuPrincipal():
         print('|2| Buscar un elemento por ID')
         print('|3| Remover un elemento por ID ')
         print('|4| Listar ')
-        print('|5| Salir \n')
+        print('|5| Salir ')
+        print('|6| Nueva funcionalidad... \n')
         eleccion = input('Seleccione una opcion. ')
 
         if eleccion == '1':
